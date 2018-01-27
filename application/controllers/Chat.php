@@ -36,6 +36,7 @@ class Chat extends CI_Controller
     echo json_encode($data);
   }
 
+  // ambil data chat admin
   function receive_message_admin()
   {
     $id_akun_ts= $this->input->post('id_akun_terima');
