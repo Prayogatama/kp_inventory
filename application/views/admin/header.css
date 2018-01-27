@@ -1,0 +1,13 @@
+.head {
+  background: #777;
+  position: initial;
+  padding-top: 2em;
+  height: 40vh;
+  margin-bottom: 2em;
+}
+.head h1 {
+  color: white;
+}
+.melayang {
+  box-shadow: 0 0 5px black;
+}
